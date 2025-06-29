@@ -51,6 +51,24 @@
 2. Полученная конфигурация инфраструктуры является предварительной, поэтому в ходе дальнейшего выполнения задания возможны изменения.
 
 ---
+## Решение часть 1 
+
+Репозиторий ![alt text](https://github.com/VN351/diplom-terraform.git)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-1.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-2.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-3.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-4.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-5.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-6.jpg)
+
+
+---
 ### Создание Kubernetes кластера
 
 На этом этапе необходимо создать [Kubernetes](https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/) кластер на базе предварительно созданной инфраструктуры.   Требуется обеспечить доступ к ресурсам из Интернета.
@@ -72,6 +90,18 @@
 3. Команда `kubectl get pods --all-namespaces` отрабатывает без ошибок.
 
 ---
+## Решение часть 2
+
+Репозиторий ![alt text](https://github.com/VN351/diplom-ansible.git)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-1.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-2.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-3.jpg)
+
+
+---
 ### Создание тестового приложения
 
 Для перехода к следующему этапу необходимо подготовить тестовое приложение, эмулирующее основное приложение разрабатываемое вашей компанией.
@@ -90,6 +120,11 @@
 2. Регистри с собранным docker image. В качестве регистри может быть DockerHub или [Yandex Container Registry](https://cloud.yandex.ru/services/container-registry), созданный также с помощью terraform.
 
 ---
+## Решение часть 3
+
+Репозиторий ![alt text](https://github.com/VN351/diplom-app.git)
+
+---
 ### Подготовка cистемы мониторинга и деплой приложения
 
 Уже должны быть готовы конфигурации для автоматического создания облачной инфраструктуры и поднятия Kubernetes кластера.  
@@ -101,6 +136,23 @@
 
 Способ выполнения:
 1. Воспользоваться пакетом [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus), который уже включает в себя [Kubernetes оператор](https://operatorhub.io/) для [grafana](https://grafana.com/), [prometheus](https://prometheus.io/), [alertmanager](https://github.com/prometheus/alertmanager) и [node_exporter](https://github.com/prometheus/node_exporter). Альтернативный вариант - использовать набор helm чартов от [bitnami](https://github.com/bitnami/charts/tree/main/bitnami).
+
+---
+## Решение часть 4
+
+Репозиторий ![alt text](https://github.com/VN351/diplom-kubernetes.git)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-1.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-2.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-3.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-4.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-5.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-6.jpg)
 
 ### Деплой инфраструктуры в terraform pipeline
 
@@ -129,6 +181,16 @@
 1. Интерфейс ci/cd сервиса доступен по http.
 2. При любом коммите в репозиторие с тестовым приложением происходит сборка и отправка в регистр Docker образа.
 3. При создании тега (например, v1.0.0) происходит сборка и отправка с соответствующим label в регистри, а также деплой соответствующего Docker образа в кластер Kubernetes.
+
+## Решение часть 5
+
+Репозиторий ![alt text](https://github.com/VN351/diplom-app/tree/master/.github/workflows)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-1.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-2.jpg)
+
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-3.jpg)
 
 ---
 ## Что необходимо для сдачи задания?
