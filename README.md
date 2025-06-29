@@ -196,10 +196,20 @@
 ## Что необходимо для сдачи задания?
 
 1. Репозиторий с конфигурационными файлами Terraform и готовность продемонстрировать создание всех ресурсов с нуля.
+   Репозиторий [diplom-terraform](https://github.com/VN351/diplom-terraform.git)
 2. Пример pull request с комментариями созданными atlantis'ом или снимки экрана из Terraform Cloud или вашего CI-CD-terraform pipeline.
+   ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-1.png)
+
+   ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-2.png)
 3. Репозиторий с конфигурацией ansible, если был выбран способ создания Kubernetes кластера при помощи ansible.
+   Репозиторий [diplom-ansible](https://github.com/VN351/diplom-ansible.git)
 4. Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image.
+   Репозиторий [diplom-app](https://github.com/VN351/diplom-app.git)
+   ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-3.png)
+   cr.yandex/crpd8u3gqoeus8fnvplv/myapp:v2.0.0
 5. Репозиторий с конфигурацией Kubernetes кластера.
+   Репозиторий [diplom-kubernetes](https://github.com/VN351/diplom-kubernetes.git)
 6. Ссылка на тестовое приложение и веб интерфейс Grafana с данными доступа.
+   [WEB-APP](http://app.labadata.ru/)
 7. Все репозитории рекомендуется хранить на одном ресурсе (github, gitlab)
 
