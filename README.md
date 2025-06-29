@@ -55,17 +55,17 @@
 
 Репозиторий ![alt text](https://github.com/VN351/diplom-terraform.git)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-1.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-1.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-2.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-2.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-3.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-3.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-4.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-4.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-5.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-5.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-6.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-6.png)
 
 
 ---
@@ -94,11 +94,11 @@
 
 Репозиторий ![alt text](https://github.com/VN351/diplom-ansible.git)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-1.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-1.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-2.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-2.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-3.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-3.png)
 
 
 ---
@@ -142,17 +142,17 @@
 
 Репозиторий ![alt text](https://github.com/VN351/diplom-kubernetes.git)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-1.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-1.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-2.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-2.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-3.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-3.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-4.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-4.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-5.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-5.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-6.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-6.png)
 
 ### Деплой инфраструктуры в terraform pipeline
 
@@ -186,11 +186,11 @@
 
 Репозиторий ![alt text](https://github.com/VN351/diplom-app/tree/master/.github/workflows)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-1.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-1.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-2.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-2.png)
 
-![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-3.jpg)
+![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-3.png)
 
 ---
 ## Что необходимо для сдачи задания?
