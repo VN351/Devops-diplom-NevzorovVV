@@ -53,7 +53,7 @@
 ---
 ## Решение часть 1 
 
-Репозиторий ![alt text](https://github.com/VN351/diplom-terraform.git)
+Репозиторий [diplom-terraform](https://github.com/VN351/diplom-terraform.git)
 
 ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-1-1.png)
 
@@ -92,7 +92,7 @@
 ---
 ## Решение часть 2
 
-Репозиторий ![alt text](https://github.com/VN351/diplom-ansible.git)
+Репозиторий [diplom-ansible](https://github.com/VN351/diplom-ansible.git)
 
 ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-2-1.png)
 
@@ -122,7 +122,7 @@
 ---
 ## Решение часть 3
 
-Репозиторий ![alt text](https://github.com/VN351/diplom-app.git)
+Репозиторий [diplom-app](https://github.com/VN351/diplom-app.git)
 
 ---
 ### Подготовка cистемы мониторинга и деплой приложения
@@ -140,7 +140,7 @@
 ---
 ## Решение часть 4
 
-Репозиторий ![alt text](https://github.com/VN351/diplom-kubernetes.git)
+Репозиторий [diplom-kubernetes](https://github.com/VN351/diplom-kubernetes.git)
 
 ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-4-1.png)
 
@@ -184,7 +184,7 @@
 
 ## Решение часть 5
 
-Репозиторий ![alt text](https://github.com/VN351/diplom-app/tree/master/.github/workflows)
+Репозиторий [workflows](https://github.com/VN351/diplom-app/tree/master/.github/workflows)
 
 ![alt text](https://github.com/VN351/Devops-diplom-NevzorovVV/raw/main/images/1-5-1.png)
 
